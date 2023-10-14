@@ -29,7 +29,7 @@ def banner():
 
 shot = 4
 score = 100
-
+os.system('clear')
 def score_shot():
     return f'''{banner()}
 Welcome to this game!
